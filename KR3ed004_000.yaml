@@ -1,0 +1,156 @@
+canonical_identifier: bkk:krp/KR3ed004/jc/v1/juan/0
+seq: 0
+front:
+  text: 序此方乃唐會昌間有一頭陀結草菴於宜春之鐘村貌甚古年百四五十歲買數畝墾畲種粟以自給村氓有彭叟者常常往來其廬顏情甚捻或助之耕一日彭之子升木伐條誤墜於地折頸挫肱呻吟不絶彭訴於道人道人請視之命買數品藥親制以餌俄而痛定數日已如平時始知道人能醫求者益衆道人亦厭之乃取方授彭使自制以應求者且誓之以無苟取毋輕售毋傳非人由是言治損者宗彭氏彭叟之初識道人三十許今老矣然風采無異前時問其姓名曰藺道者問其氏曰長安人也始道人閉門不通人事人亦少至惟一鄧先生每春晴秋爽攜稚過之必載酒肴從焉道人懸一椰瓢壁間鄧至則取瓢更酌彭或遇之亦酌二人皆談笑竟晷醉則高歌其詞曰經世學經世學成無用著山中樂山中樂土堪耕鑿癭瓢有酒同君酌醉臥草廬誰喚覺松陰忽聽雙鳴鶴起來日出穿林薄彭踳朴不知所言為何惟熟聽其歌亦得其腔每歸對人歌之人亦不省居久鄧先生不至彭問道人道人云已仙去彭卒不悟後江西觀察使行部至袁州聞彭所歌異之詰其詞得道人姓氏遂遣人同彭叟至其廬邀之至則行矣惟瓢存焉廉大以為恨謂彭傳其治損諸方因易其村曰鞏道人有書數篇所授者特其最後一卷云
+  hash: sha256:ed42b7c0c2cd1fa7d968f62d00bbbca173e3d80faefef32ffe296711d6f01e08
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed004_jc_000-d2.h1s1}
+body:
+  text: 醫治整理補接次第口訣一煎水洗二相度損處三拔伸四或用力收入骨五捺正六用黑龍散通七用風流散填瘡八夾縛九服藥十再洗十一再用黑龍散通十二或再用風流散填瘡口十三再夾縛十四仍用前服藥治之凡腦骨傷碎輕輕用手撙令平正若皮不破用黑龍散敷貼若破用風流散填瘡口絹片包之不可見風著水恐成破傷風若水與風入腦成破傷風則必發頭痛不復可治在發內者須剪去發敷之凡腦骨傷碎在頭骨上則可治在太陽穴乃是命處斷然不可治矣凡肩甲骨出相度如何整用椅當圈住脅仍以軟衣被盛簟使一人捉定兩人拔伸卻墜下手腕又著曲著手腕絹片縛之凡金井骨在脅之下有傷損不可夾縛只是捺平令安貼平正用黑龍散貼絹片縛兩脅骨亦如此凡跨骨從臀上出者可用三兩人挺定腿拔伸乃用腳奈入如跨骨從襠內出不可整矣凡手骨出者看如何出若骨出向左則向右邊拔入骨向右出則向左拔入凡手腳骨皆有兩脛若一脛斷則可治兩脛俱斷決不可治矣凡手腳骨傷甚者不可治凡傷損重者大概要拔伸捺正或取開捺正然後敷貼填塗夾縛拔伸當相近本骨損處不可別去一節骨上凡拔伸且要相度左右骨如何出有正拔伸者有斜拔伸者凡認損處只須揣摸骨頭平正不平正便可見凡左右損處只相度骨縫仔細捻捺忖度便見大概要骨頭歸舊要撙捺皮相就入骨凡拔伸或用一人或用二人三人看難易如何凡皮破骨出差爻拔伸不入撙捺相近爭一二分用快刀割些捺入骨不須割肉肉自爛碎了可以入骨骨入之後用黑龍散貼瘡之四圍腫處留瘡口別用風流散填所用刀最要快剜刀雕刀皆可凡捺正要時時轉動使活凡骨碎斷須要本處平正如何大抵骨低是骨不曾損左右看骨方是損處要拔伸捺正用藥貼夾縛要平正方是凡腫是血作用熱藥水泡洗卻用黑龍散敷貼凡傷重必用藥水泡洗然後塗藥如傷輕不必洗便塗藥凡夾縛夏三兩日冬五三日解開夾縛處用熱藥水泡洗去舊藥洗時切不可驚動損處了仍用黑龍散敷夾縛蓋傷重者方如此凡皮破用風流散填更塗未破用黑龍散貼須用杉木皮夾縛之凡拔伸捺正要軟物如絹片之類奠之凡皮里有碎骨只用黑龍散敷貼後來皮肉自爛其碎骨必然自出來然後方愈凡骨破打斷或筋斷有破處用風流散填塗卻用針線縫合其皮又四圍用黑龍散敷貼凡夾縛用杉木皮數片周回緊夾縛留開皆一縫夾縛必三度縛必要緊凡平處骨碎皮不破用藥貼用密夾縛大概看曲轉處腳凹之類不可夾縛恐後伸不得止用黑龍散貼帛片包縛庶可曲轉屈伸有數處如指骨斷止用苧麻夾縛腿上用苧麻繩夾縛繩如錢繩許大凡貼藥用板子一片將皮紙或油紙以水調黑龍散攤勻在上然後卷之貼損處凡用杉皮浸約如指大片疏排令周匝用小繩三度緊縛三日一次如前淋洗換塗貼藥凡曲縛如手腕腳凹手指之類要轉動用藥貼將絹片包之後時時運動蓋曲則得伸得伸則不得屈或屈或伸時時為之方可凡損傷其初痹而不痛應拔伸捺正復用刀取開皮皆不痛三二日後方痛凡損一月尚可整理久則不可凡損不可吃草藥吃則所出骨不能如舊凡跌損腸肚中汙血且服散血藥如四物湯之類凡損大小便不通未可便服損藥蓋損藥用酒必熱且服四物湯更看如何又服大成湯加木通如大小便尚未通又加朴硝待大小便通後卻服損藥凡傷重者未服損藥先服氣藥如勻氣散之類凡渾身無故損痛是風損當服風損藥如排風湯之類凡服損藥不可吃冷物魚牛肉極冷尤不可吃若吃牛肉痛不可治凡損藥必熱便生血氣以接骨耳凡服藥不拘在紅酒無灰酒生酒皆可凡藥三四月煉不可多合五月尤甚存散藥隨時旋丸凡收藥丸子末子並用罐子收入廚子內以火焙之凡損用火灸則醫不得服藥不效矣諸藥惟小紅丸大活血丹最貴蓋其間用乳香沒藥楓香可代乳香三之一血竭難得合大活血丹缺此亦可若有更佳合藥斷不可無乳香沒藥若無沒藥以番降真代血竭無亦用此代凡所用藥材有外道者有當土者如當歸土與川不同丸子可用土當歸土藥材末子須用外道者洗藥凡傷重者用此方煎湯洗之然後敷藥生蔥切斷一本用生薑荊芥銼土當歸上三味煎湯溫熱淋洗黑龍散貼用治跌撲傷損筋骨碎斷差爻出臼先煎蔥湯或藥汁淋洗拔伸整擦令骨相續平正後卻用生薑汁或生地黃汁和水調稀卻將熟帛或皮紙量損處大小薄攤於上貼之次以木皮約如指大片疏排令周匝將小繩三度縛之要緊三日一次再如前淋洗換藥貼裹不可去夾須護毋令搖動候骨生牢穩方去夾則復如故若被刀箭傷蟲獸傷齧成瘡穰爛肌肉不生跌磕腫痛並用薑汁和水調貼有破則留口以風流散填塗穿山甲六兩炒黃或燒存性丁香皮六兩土當歸二兩百草霜散血入半兩枇杷葉根去毛入半兩雲山枇杷根上焙碾為細末薑汁水調或研地黃汁調用大活血丹治撲損傷折骨碎筋傷疼痛浮腫腹有瘀血灌注四肢煩滿不安癰疽發背筋肉壞爛諸般風疾左癱右瘓手足頑麻婦人血風諸疾産後敗血不行流入四肢頭面浮腫血氣疼痛渾身疼痹經脈湛濁風癆發動百節痠疼並宜服之每服半丸用無灰酒磨化微煎三五沸溫服不拘時不限多少此藥將紗葛袋收掛淨處經久不壞可備急用孕婦莫服損在上食後服在下空心服傷重不拘余仿此天南星一斤薑汁浸一宿焙芍藥一斤赤白皆可骨碎補一斤焙石上生者佳黑豆一斤酒煮焙乾大栗間一斤老者去皮焙川烏一斤炮自然銅半斤火煅酸醋淬存性取半斤血竭六兩別研細辛十兩去苗葉取十兩白芷一斤木鱉半斤去殼細切麩炒取半斤川牛膝一斤去蘆酒浸焙取一斤沒藥四兩別研如無降真香為末代乳香半斤別研如無以三倍楓香代之青桑炭十斤青桑木取如臂大者去皮葉炭火煅令赤煙起用酸醋殺為炭上桑栗豆補星藥六味為末和余藥研為細末用米醋煮糯糊拌入臼搗千杵方聚衆人急下手丸下手稍緩則拆陰乾半月然後用火焙或曬一日大丸重六文濕中丸重三文濕干則以漆抹在手上取兩三丸挪漆為衣每服半丸合此藥勿令四眼見之更忌雞犬婦人見之則折矣小紅丸治踒折傷損皮破骨出手足碎斷筋肉壞爛疼痛甚至晝夜叫呼百治不止手足久損筋骨差爻舉動不得損後傷風濕支節攣縮遂成偏廢勞傷筋骨肩背疼痛四肢疲乏動用無力常服壯筋骨治經絡生氣血每服三十丸用生薑煎酒或鹽湯吞下不拘時候孕婦莫服骨碎補六兩薑製焙取六兩土當歸六兩焙取川烏六兩煨白楊皮六兩焙肉桂四兩不見火莪朮二兩焙丁香三兩乾薑二兩焙川芎三兩細辛四兩焙附子三兩半煨去皮乳香三錢別研不焙沒藥三錢別研芍藥六兩焙上補藥歸楊四味用當土者餘八味研為細末乳沒別制和醋糊為丸如緑豆大信朱為衣每服三十丸溫酒下敷用生薑自然汁煎酒或鹽湯皆可不拘時候大紅丸治撲損傷折骨碎筋斷疼痛痹冷內外俱損瘀血留滯外腫內痛肢節痛倦應諸損痛不問年深日近並宜服之常服補損堅筋固骨滋血生力神驗不可具述每服三十丸溫酒醋湯任下不拘時候孕婦莫服赤蘞一斤即何首烏焙乾川烏一斤七兩火煨坼天南星一斤焙芍藥一斤焙土當歸十兩焙骨碎補一斤薑製焙牛膝十兩酒浸焙細辛八兩去苗葉焙赤小豆二升焙自然銅四兩煅存性青桑炭五斤煅醋淬缺此一味亦可其上俱要制焙後方稱斤兩上蘞星芍藥歸補膝辛七味並用當土者同餘藥羅為末醋煮麵糊為丸如梧桐子大朱為衣每服三十丸溫酒下醋湯亦可損在上食後服在下空心服傷重不拘時服或與小紅丸互用亦可黑丸子治打撲傷損驢馬跌墜骨斷筋碎百節疼痛瘀血不散浮腫結毒一切風疾四肢疼痹筋痿力乏渾身倦怠手足緩弱行步不前婦人諸般血風勞損並宜服之每服二十丸三十丸用煨蔥酒或茶任下孕婦莫服白蘞一斤焙白芨四兩焙南星六兩焙芍藥十兩焙土當歸四兩焙骨碎補八兩焙川烏三兩焙牛膝六兩焙百草霜十兩赤小豆一斤上除星芍歸補膝豆用土産者草霜釜上取同為末醋糊為丸如梧子大每服三二十丸當歸散治打撲傷損皮肉破碎筋骨寸斷瘀壅滯結腫不散或作癰疽疼痛至甚因損後中風手足痿痹不能舉動筋骨縫縱攣縮不舒及勞役所損肩背四肢疼痛並宜服之此藥大能續筋接骨剋日取效澤蘭十兩川當歸十兩芍藥白芷川芎肉桂去粗皮各五兩川續斷十兩牛膝十兩川烏川椒去目各三兩桔硬甘草各四兩白楊皮不用亦可細辛五兩以上俱要淨稱上為極細末每服二錢熱酒調下不拘時候乳香散損傷撲跌治皮肉破綻筋骨寸斷敗血壅滯結腫爛壞疼痛至甚或勞役所損背肩四肢疼痛損後中風手足痿痹不能舉動筋骨乖縱攣縮不舒大能續筋接骨卓有奇驗常服結血止疼生力每服二錢溫湯調下不拘時候肉桂乾薑各三兩牛膝羌活各四兩白芷二兩川芎細辛薑黃各四兩骨碎補當歸各六兩芍藥草烏川烏各四兩蒼朮六兩桔梗十兩赤小豆一升乳香半斤沒藥五兩何首烏十四兩木鱉去殼麩炒六兩乳沒別研一方去木鱉加海桐皮上焙碾為末續入乳沒末和湯使調服如前鱉甲散治五癆七傷四時傷寒渾身增寒壯熱骨節煩疼嗽咳痰涎酒色傷憊四肢倦怠及治山嵐瘴瘧一切積氣心腹膨脹嘔吐泄瀉應是風疾並宜服之肉桂四兩川芎四兩白芷四兩秦艽四兩鱉甲四兩醋炙三次令赤色紫菀四兩淨洗焙乾麻黃四兩不去節羌活四兩一云獨活當歸四兩去尾乾薑四兩橘皮四兩蒼朮一斤焙天台烏藥七兩紫蘇四兩不過火桔梗三斤半焙烏藥七兩柴胡七兩川烏半隻炮上焙碾為細末每服二錢水一盞姜三片烏梅一個同煎至七分熱服傷寒加蔥白煎勞損入鹽熱酒調下小紅丸烏頭一個何首烏蒼朮蛇床子五靈脂牛膝赤小豆白膠香當歸各一兩乳香二錢上為末好酒煮糊為丸如緑豆大每服三十丸溫酒送下小黑丸白蘞白芨南星芍藥各十兩當歸五兩細辛三兩赤小豆一升百草霜六兩右為末醋糊為丸如梧子大每服三十丸溫酒下搜風丸治風損腰痛頭疼治效與黑丸子同何首烏南星骨碎補川烏各半斤土牛膝芍藥各五兩一云二兩細辛三兩當歸十兩白蘚皮上為末醋糊為丸如梧子大每服三十丸溫酒鹽湯不拘時吞下驅風丸治效同黑丸子骨碎補五兩川烏川芎各一兩草烏川當歸牛膝木鱉各二兩何首烏四兩烏金四兩即百草霜一云京墨上為末醋糊丸如梧子大每服三十丸空心鹽湯下或荊芥茶湯食後下黑虎丹治男子婦人手足麻痹川烏木鱉各一斤地龍十兩黑豆半升五靈脂二兩松墨二兩醋炒上四味為末五靈脂醋研碎煮麵糊為丸龍眼大每服一丸或二丸細嚼酒下薄荷茶亦可不拘時首烏丸治風損寬筋何首烏十斤黑豆半升同蒸熟牽牛子十兩炒牛膝薄荷各二十兩川烏二兩青木香五兩皂角二斤一斤燒存性一斤蜜炙用上為末酒糊丸如梧子大每服三十丸蔥湯或薄荷湯不拘時下勻氣散凡傷重先下此藥調氣然後服損藥茴香青皮厚朴制白芷烏藥杏仁去皮尖各半兩陳皮麥蘖前胡桔梗蒼朮粉草各一兩上為末每服二錢水一盞薑棗煎至八分空心服四物湯凡傷重腸內有瘀血者用此白芍藥川當歸熟地黃川芎上等分每服三錢水一盞半煎至七分空心熱服一方只用當歸大黃二味七氣湯半夏五兩人參肉桂甘草炙各一兩上每服三錢水一盞姜三片煎至七分食前熱服五積散治五癆七傷凡被傷頭痛傷風發寒姜煎二錢仍入蔥白食後熱服蒼朮桔梗各二十兩枳殼陳皮各六兩芍藥白芷川芎川歸甘草肉桂茯苓半夏湯泡各三兩厚朴乾薑各四兩麻黃去根節六兩上除枳殼桂兩件外余細銼用慢火炒令色變攤冷入枳殼桂令勻每服三錢水一盞姜三片煎至半盞熱服大成湯一名大承氣湯應傷損極重大小便不通者方服此可加木通煎如未通加朴硝俟大小便通方可服損藥損藥不可用酒煎愈不通矣然亦須量人肥弱用如孕婦小兒莫服大黃四兩川芒硝甘草陳皮紅花當歸蘇木木通各二兩枳殼四兩厚朴少許上件㕮咀每服二錢水一盞半煎至一沸去渣溫服不拘時此乃專治男子傷重瘀血不散腹肚膨脹大小便不通上攻心腹悶亂至死者急將此藥通下瘀血後方可服損藥小承氣湯大黃四兩芒硝二錢煎熱漸入枳實二兩厚朴八兩上治效同大成湯此較力輕不拘婦人女子小兒皆可服之排風湯治諸風疾損白蘚皮白朮芍藥肉桂去粗皮川芎川當歸去蘆杏仁去皮尖防風甘草各二兩獨活麻黃去根節白茯苓各三兩上每服二錢水一盞半姜四片煎至八分不拘時服更宜續命湯消風散接骨藥下窟烏一名鶚用骨燒存性用古銅錢一個煅醋淬七次為末等分骨斷夾縛訖用藥一錢以酒調下不可過多病在下空心服在上食後服此方極驗常用整骨藥用大草烏刮去皮為細末每服半錢溫酒調下如未覺再添二分藥酒下又方用乳香沒藥各一兩別研次用血竭自然銅無名異醋煮黃木鱉子各一兩地龍二兩併為末蜜丸如龍眼大嚼爛熱酒咽下俟了用生蔥嚼解至真散一名奪命散治打破傷損破腦傷風頭疼角弓反張天南星炮七次防風去蘆叉上等分為末凡破傷風病以藥敷貼瘡口即以溫酒調一錢服之如牙關緊急以童便調二錢服垂死心頭微溫童便調二錢並進三服又治傷損方論如傷重者第一用大承氣湯或小承氣湯或四物湯通大小便去瘀血也惟婦人別有陰紅湯通下第二用黃末藥溫酒調不拘時病在上食後服在下空心服遍身痛臨臥時服第三服白末藥熱酒調其法同黃末服婦人産後諸血疾並皆治之第四服烏丸子第五服紅丸子第六服麻丸子用溫酒吞下婦人艾醋湯下孕婦不可服第七服活血丹當歸散乳香散二散方見前方內並用酒調不拘時與黃末白末服法同惟乳香散參之山泉方則又加六味白楊皮一斤生芥子十個澤蘭一斤檀香六兩沉香二兩川芎一斤余方條具於後大承氣小承氣四物湯並見前方內黃藥末治跌撲傷損皮肉破綻筋肉寸斷敗血壅滯結癰爛壞疼痛至甚或勞役所損肩背四肢疼痛損後中風手足痿痹不能舉動筋骨乖張攣縮不伸續筋接骨卓有奇功常服活血止腫生力川烏炮草烏醋煮楓香別研各三斤當歸去蘆頭酒浸一宿陰乾赤芍藥半兩川獨活去蘆川芎湯泡七次細辛去苗淨洗香白芷山桂去粗皮白姜麵裹煨黃姜濕紙裹煨五加皮淨洗去骨桔梗去蘆骨碎補去毛炒蒼朮醋煮七次何首烏用黑豆酒煮七次以上各二斤知母半斤沒藥半斤牛膝二斤酒浸七日焙乾上件為細末每服二錢鹽酒調病在上食後服病在下空心服遍身損臨臥服孕婦莫服白藥末治打撲傷損皮肉破碎筋骨寸斷瘀血壅滯結腫不散或作癰疽疼痛至甚或因損後中風手足痿痹不能舉動筋骨偏縱攣縮不伸及勞傷破損肩背四肢疼痛並宜服之此藥大宜續筋接骨刻日取效婦人産後諸血疾並皆治之白楊皮十二兩米汁浸一宿桔梗十兩去苗赤芍藥九兩酒浸一宿川芎半斤湯泡七次白芷十兩山桂半斤去粗皮細辛半斤去苗甘草十兩炙花椒五兩去子合口者川烏六兩炮續斷六兩米汁浸牛膝六兩去苗酒浸一宿澤蘭葉九兩去叉枝當歸六兩香附子六兩炒上為細末每服二錢酒調下服法同前婦人諸血風氣亦皆治之烏丸子治打撲傷損骨碎筋斷瘀血不散及一切風疾筋痿力乏左癱右瘓手足緩弱諸般風損婦人血疾産後敗血不散灌入四肢面目浮腫並宜服之惟孕婦勿服赤小豆炒白蘞赤芍藥何首烏醋煮細辛去苗草烏醋煮七次白芨煨山桂去粗皮南星麵裹煨當歸酒浸一宿川芎百草霜骨碎補去毛炒天台烏藥烏豆酒煮後焙乾以上各一兩上為細末用煮豆酒煮麵糊為丸如梧子大每服五十丸用煨蔥酒或煨蔥茶任下紅丸子治打撲傷損骨碎筋斷疼痛痹冷內外俱損瘀血留滯外腫內痛肢節疼倦應諸傷損不問年月日久並宜服之常服補損堅筋固骨滋血生力神效不可具述孕婦勿服牛膝酒浸一宿川烏炮南星醋煮三次細辛去苗淨洗何首烏用水煮熟桔梗去蘆山桂去粗皮當歸自然銅煅醋淬七次別研白蘞赤芍藥骨碎補去毛沒藥別研羌活去蘆赤小豆不見火上除研藥外余並打和炒乾為末酒煮麵糊為丸每服五十丸隨病上下服之麻丸子治踒折傷損皮破骨出手足碎斷肌肉壞爛疼痛至甚日夜叫呼百治不止手足久損筋骨差爻舉動不能損後傷風濕肢節攣縮遂成偏廢勞傷筋骨肩背疼痛四肢廢乏動作無力常服壯筋骨活經絡生氣血及治婦人血氣惟孕婦勿服川當歸去苗淨洗桔梗名布蘿蔔牛膝各半兩不用酒浸骨碎補二兩去毛川烏不見火切作片子醋煮川芎一斤百草霜一斤草烏用山礬灰汁浸一斤木鱉子去油殼赤芍藥各半斤烏豆一斗浸酒煮焙乾金毛狗脊去尾上為末酒煮麵糊為丸如梧子大每服五十丸溫酒下婦人艾醋湯下活血丹治跌撲傷損折骨斷筋疼痛浮腫腹有瘀血灌注四肢煩悶不安癰疽發背肌肉壞爛諸般風疾左癱右瘓手足頑麻婦人血風發動並宜服之每服半丸用無灰酒磨化微煎三五沸溫服不拘時候不以多少此藥常將紗葛袋收掛淨處經久不壞可備急用唯孕婦勿服荊芥二兩半楓香一兩別研檀香一兩不見火降真節一兩草烏二兩酒煮山桂去粗皮當歸酒浸一時蒼朮米汁浸春五夏三秋七冬十日炒乾川羌活去蘆白芨麵裹煨曬乾烏豆以糯米炒黃為度地龍去土各半兩滴青一錢半別研麝香半兩別研川芎半兩熱湯洗三次五靈脂一兩半用燈心別研乳香一兩別研沒藥一兩別研川烏二兩炮骨碎補去毛炒川牛膝酒浸一時細辛去苗花桑木燒灰存性白芷不蛀者赤芍藥酒浸川牽牛石灰炒南星以石灰炒黃色為度自然銅煅酒淬別研大栗間各半兩大鱉二十個去油殼上為細末酒煮麵糊為丸如彈子大入臼杵三十餘下團成塊稱一兩分作三丸候丸盡分作三分一分陰乾一分曬乾半時久一分焙半時久卻三分打和一處令陰陽相合俟藥上塵氣為度然後刷去塵用黑漆光為衣洗藥後有仙正散方如傷重先用洗後卻用烏龍角貼其洗藥同前方內又參山泉方洗藥用木朔翟石南葉白芷白楊皮生蔥何首烏土當歸荊芥藁本芍藥上不拘多少煎湯候溫將洗損處令淨用絹滲干瘡口上為妙烏龍角貼藥治跌撲傷損筋骨碎斷差爻出臼其用法詳見前方黑龍散同先洗擦整理後調貼夾縛亦可用此干糝瘡口白殭蠶六兩去絲嘴炒赤小豆六兩川牛膝六兩去蘆山桂去皮桔梗白芨百草霜山枇杷葉生銼陰乾各一斤當歸尾骨碎補去毛炒北細辛去苗各半斤白芷赤芍藥南星煨何首烏各十兩白蘞十兩知母草烏各三兩用薑汁煮上為細末如藥潤亦可焙乾碾之每用以薑汁或冷水茶水調攤紙上於痛腫處貼之三日一洗一換貼骨碎須夾桃紅散治積年不效朽爛瘡口金瘡箭射打碎皮破血出不止可將此藥干擫次日別用藥水洗淨再擫大能散血結口石膏一斤黃泥封固煅過白礬二兩飛過血竭一兩別研黃丹細研火飛過水飛過松糖別研五倍子粉霜各三兩龍骨二兩別研上研為極細末罐子收用紫金散整骨續筋生肌止痛內傷肝肺嘔血不止或在心腹脹痛四肢無力左右半身風瘓並宜服之紫金藤皮二兩降真二兩續斷五兩要細者骨碎補二兩無名異三兩燒紅醋淬七次琥珀二兩牛膝三兩去苗酒浸一宿當歸二兩去尾桃仁二兩去皮蒲黃一兩大黃一兩煨朴硝半兩熱湯泡化用花葉紙濾過七次上件為末用蘇木煎酒調日進三服即效七寶散治冷水風腳濕氣下注腳膝生瘡左癱右瘓筋脈拘急腳下隱痛不得伸屈不能踏地並皆治之晚蠶砂一升炒蛇床子一升炒肉桂二兩去皮荊芥穗五兩乾荷葉二兩藁本五兩去土川烏二兩炮薏苡仁三兩上件㕮咀約二兩重用水五升加花椒連須蔥同煎至七分去渣於痛處熱斟淋冼定痛丸治腰痛不可忍不問男子婦人室女老幼並皆治之威靈仙半兩去土金鈴子一兩炒去核川烏一兩炮八角茴香一兩上為末酒煮麵糊為丸如梧子大每服五十丸鹽湯酒隨上下服之七氣湯治積年久損入經絡服藥無效腰背拘急咳嗽痰涎風勞發動日漸羸瘦每到秋來損病復作不問男子婦人並皆治之青皮去白炒陳皮去白三稜濕紙裹煨北梗去蘆肉桂去粗皮藿香去枝益智去殼炒香附子炒甘草炙半夏湯泡赤芍藥烏藥獨活羌活去蘆降真香各一兩上㕮咀每服五錢水一大盞半姜三片棗一枚煎至七分去滓隨病上下服之仙正散洗藥治男子婦人骨斷用此煎水洗後整骨卻用烏龍角貼之如破留口當夾縛即依前方為之肉桂二錢去皮當歸三錢去尾胡索五錢白芷五錢蒼朮一兩赤芍藥五錢防風一兩荊芥四兩上㕮咀每服五錢水五升乾荷葉兩皮煎至七分去滓於損處斷處及冷水風腳筋脈拘急不得屈伸行步艱苦用此藥熱蒸用被蓋覆候溫淋洗糝瘡口方但遇傷損皮肉血出或破腦傷風血出不止急用此藥擫之血竭二錢半別研降真香四錢燈心一把龍骨五花者二錢別研雞一隻連毛屎用醋煮後碎之用黃泥封固以文武火煨乾後焙為末蘇木同降真香碾少許乳香五錢同燈心研沒藥五錢別研桔梗少許紅花要馬頭者二錢焙乾為末當歸三錢上為細末每用少許干擫瘡口上如血流湧出不止多擫之候血藥將干又用清油調塗於瘡上可制一料以備急用接骨散治飛禽骨斷從高墜下驢馬跌折筋斷骨碎痛不可忍此乃接骨續筋止痛活血硼砂一錢半水粉當歸各一錢上為末每服二錢煎蘇木湯服訖時時但飲蘇木湯立效除痕欲傷後瘡愈無痕用此蔓荊子隨風子續隨子黃荊子上件各等分為細末飯上蒸九遍用童便浸一宿後炒乾為度以花葉紙包在絹巾內揩之可以除痕陰紅湯專治婦人傷損瘀血不散腹肚膨脹大小便不通上攻心腹悶亂至死者急將此藥通下卻依前次第服藥鹿角膠産婦油發各一錢燒沒藥三錢上用酒一大盞煎服膠艾湯專治婦人尋常經脈不通宜先服此後服鱉甲散乾地黃三錢阿膠一錢川芎艾葉各一錢上㕮咀每服二錢水一大盞酒半盞煎至八分不拘時溫服洗藥治男子婦人骨斷用此煎水洗後整骨了卻用烏龍角貼杜仲五兩五加皮七兩蔥根一把上三味水五升煎至七分去滓淋洗每服二兩半重傷破留口用藥摻骨斷當夾縛詳見前論
+  hash: sha256:61e278f96c74212bd3dfd3709a8196a1bfc768977461aeba91ceb99a93eb1393
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed004_jc_000-d3.h1s1}
+  - {type: 'tls:div-start', offset: 1441, content: '', id: KR3ed004_jc_000-d3d86, level: 2, head_text: 洗藥}
+  - {type: 'tls:head', offset: 1441, content: '', id: KR3ed004_jc_000-d3.d86.h1s1}
+  - {type: 'tls:div-end', offset: 1482, content: '', id: KR3ed004_jc_000-d3d86}
+  - {type: 'tls:div-start', offset: 1482, content: '', id: KR3ed004_jc_000-d3d87, level: 2, head_text: 黑龍散}
+  - {type: 'tls:head', offset: 1482, content: '', id: KR3ed004_jc_000-d3.d87.h1s1}
+  - {type: 'tls:div-end', offset: 1710, content: '', id: KR3ed004_jc_000-d3d87}
+  - {type: 'tls:div-start', offset: 1710, content: '', id: KR3ed004_jc_000-d3d88, level: 2, head_text: 大活血丹}
+  - {type: 'tls:head', offset: 1710, content: '', id: KR3ed004_jc_000-d3.d88.h1s1}
+  - {type: 'tls:div-end', offset: 2148, content: '', id: KR3ed004_jc_000-d3d88}
+  - {type: 'tls:div-start', offset: 2148, content: '', id: KR3ed004_jc_000-d3d89, level: 2, head_text: 小紅丸}
+  - {type: 'tls:head', offset: 2148, content: '', id: KR3ed004_jc_000-d3.d89.h1s1}
+  - {type: 'tls:div-end', offset: 2402, content: '', id: KR3ed004_jc_000-d3d89}
+  - {type: 'tls:div-start', offset: 2402, content: '', id: KR3ed004_jc_000-d3d90, level: 2, head_text: 大紅丸}
+  - {type: 'tls:head', offset: 2402, content: '', id: KR3ed004_jc_000-d3.d90.h1s1}
+  - {type: 'tls:div-end', offset: 2657, content: '', id: KR3ed004_jc_000-d3d90}
+  - {type: 'tls:div-start', offset: 2657, content: '', id: KR3ed004_jc_000-d3d91, level: 2, head_text: 黑丸子}
+  - {type: 'tls:head', offset: 2657, content: '', id: KR3ed004_jc_000-d3.d91.h1s1}
+  - {type: 'tls:div-end', offset: 2827, content: '', id: KR3ed004_jc_000-d3d91}
+  - {type: 'tls:div-start', offset: 2827, content: '', id: KR3ed004_jc_000-d3d92, level: 2, head_text: 當歸散}
+  - {type: 'tls:head', offset: 2827, content: '', id: KR3ed004_jc_000-d3.d92.h1s1}
+  - {type: 'tls:div-end', offset: 2988, content: '', id: KR3ed004_jc_000-d3d92}
+  - {type: 'tls:div-start', offset: 2988, content: '', id: KR3ed004_jc_000-d3d93, level: 2, head_text: 乳香散}
+  - {type: 'tls:head', offset: 2988, content: '', id: KR3ed004_jc_000-d3.d93.h1s1}
+  - {type: 'tls:div-end', offset: 3186, content: '', id: KR3ed004_jc_000-d3d93}
+  - {type: 'tls:div-start', offset: 3186, content: '', id: KR3ed004_jc_000-d3d94, level: 2, head_text: 鱉甲散}
+  - {type: 'tls:head', offset: 3186, content: '', id: KR3ed004_jc_000-d3.d94.h1s1}
+  - {type: 'tls:div-end', offset: 3388, content: '', id: KR3ed004_jc_000-d3d94}
+  - {type: 'tls:div-start', offset: 3388, content: '', id: KR3ed004_jc_000-d3d95, level: 2, head_text: 小紅丸}
+  - {type: 'tls:head', offset: 3388, content: '', id: KR3ed004_jc_000-d3.d95.h1s1}
+  - {type: 'tls:div-end', offset: 3445, content: '', id: KR3ed004_jc_000-d3d95}
+  - {type: 'tls:div-start', offset: 3445, content: '', id: KR3ed004_jc_000-d3d96, level: 2, head_text: 小黑丸}
+  - {type: 'tls:head', offset: 3445, content: '', id: KR3ed004_jc_000-d3.d96.h1s1}
+  - {type: 'tls:div-end', offset: 3496, content: '', id: KR3ed004_jc_000-d3d96}
+  - {type: 'tls:div-start', offset: 3496, content: '', id: KR3ed004_jc_000-d3d97, level: 2, head_text: 搜風丸}
+  - {type: 'tls:head', offset: 3496, content: '', id: KR3ed004_jc_000-d3.d97.h1s1}
+  - {type: 'tls:div-end', offset: 3574, content: '', id: KR3ed004_jc_000-d3d97}
+  - {type: 'tls:div-start', offset: 3574, content: '', id: KR3ed004_jc_000-d3d98, level: 2, head_text: 驅風丸}
+  - {type: 'tls:head', offset: 3574, content: '', id: KR3ed004_jc_000-d3.d98.h1s1}
+  - {type: 'tls:div-end', offset: 3652, content: '', id: KR3ed004_jc_000-d3d98}
+  - {type: 'tls:div-start', offset: 3652, content: '', id: KR3ed004_jc_000-d3d99, level: 2, head_text: 黑虎丹}
+  - {type: 'tls:head', offset: 3652, content: '', id: KR3ed004_jc_000-d3.d99.h1s1}
+  - {type: 'tls:div-end', offset: 3728, content: '', id: KR3ed004_jc_000-d3d99}
+  - {type: 'tls:div-start', offset: 3728, content: '', id: KR3ed004_jc_000-d3d100, level: 2, head_text: 首烏丸}
+  - {type: 'tls:head', offset: 3728, content: '', id: KR3ed004_jc_000-d3.d100.h1s1}
+  - {type: 'tls:div-end', offset: 3810, content: '', id: KR3ed004_jc_000-d3d100}
+  - {type: 'tls:div-start', offset: 3810, content: '', id: KR3ed004_jc_000-d3d101, level: 2, head_text: 勻氣散}
+  - {type: 'tls:head', offset: 3810, content: '', id: KR3ed004_jc_000-d3.d101.h1s1}
+  - {type: 'tls:div-end', offset: 3880, content: '', id: KR3ed004_jc_000-d3d101}
+  - {type: 'tls:div-start', offset: 3880, content: '', id: KR3ed004_jc_000-d3d102, level: 2, head_text: 四物湯}
+  - {type: 'tls:head', offset: 3880, content: '', id: KR3ed004_jc_000-d3.d102.h1s1}
+  - {type: 'tls:div-end', offset: 3934, content: '', id: KR3ed004_jc_000-d3d102}
+  - {type: 'tls:div-start', offset: 3934, content: '', id: KR3ed004_jc_000-d3d103, level: 2, head_text: 七氣湯}
+  - {type: 'tls:head', offset: 3934, content: '', id: KR3ed004_jc_000-d3.d103.h1s1}
+  - {type: 'tls:div-end', offset: 3970, content: '', id: KR3ed004_jc_000-d3d103}
+  - {type: 'tls:div-start', offset: 3970, content: '', id: KR3ed004_jc_000-d3d104, level: 2, head_text: 五積散}
+  - {type: 'tls:head', offset: 3970, content: '', id: KR3ed004_jc_000-d3.d104.h1s1}
+  - {type: 'tls:div-end', offset: 4091, content: '', id: KR3ed004_jc_000-d3d104}
+  - {type: 'tls:div-start', offset: 4091, content: '', id: KR3ed004_jc_000-d3d105, level: 2, head_text: 大成湯}
+  - {type: 'tls:head', offset: 4091, content: '', id: KR3ed004_jc_000-d3.d105.h1s1}
+  - {type: 'tls:div-end', offset: 4258, content: '', id: KR3ed004_jc_000-d3d105}
+  - {type: 'tls:div-start', offset: 4258, content: '', id: KR3ed004_jc_000-d3d106, level: 2, head_text: 小承氣湯}
+  - {type: 'tls:head', offset: 4258, content: '', id: KR3ed004_jc_000-d3.d106.h1s1}
+  - {type: 'tls:div-end', offset: 4305, content: '', id: KR3ed004_jc_000-d3d106}
+  - {type: 'tls:div-start', offset: 4305, content: '', id: KR3ed004_jc_000-d3d107, level: 2, head_text: 排風湯}
+  - {type: 'tls:head', offset: 4305, content: '', id: KR3ed004_jc_000-d3.d107.h1s1}
+  - {type: 'tls:div-end', offset: 4385, content: '', id: KR3ed004_jc_000-d3d107}
+  - {type: 'tls:div-start', offset: 4385, content: '', id: KR3ed004_jc_000-d3d108, level: 2, head_text: 接骨藥}
+  - {type: 'tls:head', offset: 4385, content: '', id: KR3ed004_jc_000-d3.d108.h1s1}
+  - {type: 'tls:div-end', offset: 4479, content: '', id: KR3ed004_jc_000-d3d108}
+  - {type: 'tls:div-start', offset: 4479, content: '', id: KR3ed004_jc_000-d3d109, level: 2, head_text: 又方}
+  - {type: 'tls:head', offset: 4479, content: '', id: KR3ed004_jc_000-d3.d109.h1s1}
+  - {type: 'tls:div-end', offset: 4536, content: '', id: KR3ed004_jc_000-d3d109}
+  - {type: 'tls:div-start', offset: 4536, content: '', id: KR3ed004_jc_000-d3d110, level: 2, head_text: 至真散}
+  - {type: 'tls:head', offset: 4536, content: '', id: KR3ed004_jc_000-d3.d110.h1s1}
+  - {type: 'tls:div-end', offset: 4622, content: '', id: KR3ed004_jc_000-d3d110}
+  - {type: 'tls:head', offset: 4622, content: '', id: KR3ed004_jc_000-d4.h1s1}
+  - {type: 'tls:div-start', offset: 4850, content: '', id: KR3ed004_jc_000-d4d8, level: 2, head_text: 黃藥末}
+  - {type: 'tls:head', offset: 4850, content: '', id: KR3ed004_jc_000-d4.d8.h1s1}
+  - {type: 'tls:div-end', offset: 5081, content: '', id: KR3ed004_jc_000-d4d8}
+  - {type: 'tls:div-start', offset: 5081, content: '', id: KR3ed004_jc_000-d4d9, level: 2, head_text: 白藥末}
+  - {type: 'tls:head', offset: 5081, content: '', id: KR3ed004_jc_000-d4.d9.h1s1}
+  - {type: 'tls:div-end', offset: 5303, content: '', id: KR3ed004_jc_000-d4d9}
+  - {type: 'tls:div-start', offset: 5303, content: '', id: KR3ed004_jc_000-d4d10, level: 2, head_text: 烏丸子}
+  - {type: 'tls:head', offset: 5303, content: '', id: KR3ed004_jc_000-d4.d10.h1s1}
+  - {type: 'tls:div-end', offset: 5469, content: '', id: KR3ed004_jc_000-d4d10}
+  - {type: 'tls:div-start', offset: 5469, content: '', id: KR3ed004_jc_000-d4d11, level: 2, head_text: 紅丸子}
+  - {type: 'tls:head', offset: 5469, content: '', id: KR3ed004_jc_000-d4.d11.h1s1}
+  - {type: 'tls:div-end', offset: 5640, content: '', id: KR3ed004_jc_000-d4d11}
+  - {type: 'tls:div-start', offset: 5640, content: '', id: KR3ed004_jc_000-d4d12, level: 2, head_text: 麻丸子}
+  - {type: 'tls:head', offset: 5640, content: '', id: KR3ed004_jc_000-d4.d12.h1s1}
+  - {type: 'tls:div-end', offset: 5848, content: '', id: KR3ed004_jc_000-d4d12}
+  - {type: 'tls:div-start', offset: 5848, content: '', id: KR3ed004_jc_000-d4d13, level: 2, head_text: 活血丹}
+  - {type: 'tls:head', offset: 5848, content: '', id: KR3ed004_jc_000-d4.d13.h1s1}
+  - {type: 'tls:div-end', offset: 6246, content: '', id: KR3ed004_jc_000-d4d13}
+  - {type: 'tls:div-start', offset: 6246, content: '', id: KR3ed004_jc_000-d4d14, level: 2, head_text: 洗藥}
+  - {type: 'tls:head', offset: 6246, content: '', id: KR3ed004_jc_000-d4.d14.h1s1}
+  - {type: 'tls:div-end', offset: 6331, content: '', id: KR3ed004_jc_000-d4d14}
+  - {type: 'tls:div-start', offset: 6331, content: '', id: KR3ed004_jc_000-d4d15, level: 2, head_text: 烏龍角}
+  - {type: 'tls:head', offset: 6331, content: '', id: KR3ed004_jc_000-d4.d15.h1s1}
+  - {type: 'tls:div-end', offset: 6511, content: '', id: KR3ed004_jc_000-d4d15}
+  - {type: 'tls:div-start', offset: 6511, content: '', id: KR3ed004_jc_000-d4d16, level: 2, head_text: 桃紅散}
+  - {type: 'tls:head', offset: 6511, content: '', id: KR3ed004_jc_000-d4.d16.h1s1}
+  - {type: 'tls:div-end', offset: 6617, content: '', id: KR3ed004_jc_000-d4d16}
+  - {type: 'tls:div-start', offset: 6617, content: '', id: KR3ed004_jc_000-d4d17, level: 2, head_text: 紫金散}
+  - {type: 'tls:head', offset: 6617, content: '', id: KR3ed004_jc_000-d4.d17.h1s1}
+  - {type: 'tls:div-end', offset: 6756, content: '', id: KR3ed004_jc_000-d4d17}
+  - {type: 'tls:div-start', offset: 6756, content: '', id: KR3ed004_jc_000-d4d18, level: 2, head_text: 七寶散}
+  - {type: 'tls:head', offset: 6756, content: '', id: KR3ed004_jc_000-d4.d18.h1s1}
+  - {type: 'tls:div-end', offset: 6872, content: '', id: KR3ed004_jc_000-d4d18}
+  - {type: 'tls:div-start', offset: 6872, content: '', id: KR3ed004_jc_000-d4d19, level: 2, head_text: 定痛丸}
+  - {type: 'tls:head', offset: 6872, content: '', id: KR3ed004_jc_000-d4.d19.h1s1}
+  - {type: 'tls:div-end', offset: 6947, content: '', id: KR3ed004_jc_000-d4d19}
+  - {type: 'tls:div-start', offset: 6947, content: '', id: KR3ed004_jc_000-d4d20, level: 2, head_text: 七氣湯}
+  - {type: 'tls:head', offset: 6947, content: '', id: KR3ed004_jc_000-d4.d20.h1s1}
+  - {type: 'tls:div-end', offset: 7087, content: '', id: KR3ed004_jc_000-d4d20}
+  - {type: 'tls:div-start', offset: 7087, content: '', id: KR3ed004_jc_000-d4d21, level: 2, head_text: 仙正散}
+  - {type: 'tls:head', offset: 7087, content: '', id: KR3ed004_jc_000-d4.d21.h1s1}
+  - {type: 'tls:div-end', offset: 7220, content: '', id: KR3ed004_jc_000-d4d21}
+  - {type: 'tls:div-start', offset: 7220, content: '', id: KR3ed004_jc_000-d4d22, level: 2, head_text: 糝瘡口方}
+  - {type: 'tls:head', offset: 7220, content: '', id: KR3ed004_jc_000-d4.d22.h1s1}
+  - {type: 'tls:div-end', offset: 7387, content: '', id: KR3ed004_jc_000-d4d22}
+  - {type: 'tls:div-start', offset: 7387, content: '', id: KR3ed004_jc_000-d4d23, level: 2, head_text: 接骨散}
+  - {type: 'tls:head', offset: 7387, content: '', id: KR3ed004_jc_000-d4.d23.h1s1}
+  - {type: 'tls:div-end', offset: 7455, content: '', id: KR3ed004_jc_000-d4d23}
+  - {type: 'tls:div-start', offset: 7455, content: '', id: KR3ed004_jc_000-d4d24, level: 2, head_text: 除痕}
+  - {type: 'tls:head', offset: 7455, content: '', id: KR3ed004_jc_000-d4.d24.h1s1}
+  - {type: 'tls:div-end', offset: 7517, content: '', id: KR3ed004_jc_000-d4d24}
+  - {type: 'tls:div-start', offset: 7517, content: '', id: KR3ed004_jc_000-d4d25, level: 2, head_text: 陰紅湯}
+  - {type: 'tls:head', offset: 7517, content: '', id: KR3ed004_jc_000-d4.d25.h1s1}
+  - {type: 'tls:div-end', offset: 7584, content: '', id: KR3ed004_jc_000-d4d25}
+  - {type: 'tls:div-start', offset: 7584, content: '', id: KR3ed004_jc_000-d4d26, level: 2, head_text: 膠艾湯}
+  - {type: 'tls:head', offset: 7584, content: '', id: KR3ed004_jc_000-d4.d26.h1s1}
+  - {type: 'tls:div-end', offset: 7645, content: '', id: KR3ed004_jc_000-d4d26}
+  - {type: 'tls:div-start', offset: 7645, content: '', id: KR3ed004_jc_000-d4d27, level: 2, head_text: 洗藥}
+  - {type: 'tls:head', offset: 7645, content: '', id: KR3ed004_jc_000-d4.d27.h1s1}
+  - {type: 'tls:div-end', offset: 7718, content: '', id: KR3ed004_jc_000-d4d27}
+metadata:
+  title: 仙授理傷續斷秘方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed004.xml
+hash: sha256:04d5c5cd53731a347a4df54e4d8c2307ec4d713eed3c5e837ebc4cbc74241c83
