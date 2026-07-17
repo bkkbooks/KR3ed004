@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed004_000.yaml, hash: 'sha256:c91beb455cdf1ab18305861efd735c7a8886ea16deef86c6f29ac3e721407907'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed004_000.markers.yaml, hash: 'sha256:fb1ee7e8563ba677f9ee6fb861f2a9359ef5176cdee1fbfc5eb5c38716011e93'}
+  - {seq: 0, role: markers, filename: assets/KR3ed004_000.markers.yaml, hash: 'sha256:c8134882daec32e899a53153ffa1da458f707bbd030094f5cd3ef59cf659bd25'}
 table_of_contents:
 - ref:
     seq: 0
@@ -501,7 +501,7 @@ table_of_contents:
   label: 洗藥
   type: section
   level: 2
-hash: sha256:31c09bb196118abc1128cb01ed731bb56466dec911fa2f2c3e63e2d208238cae
+hash: sha256:693255b29cccd417360ecfc6cf9e886255257e3134f5388901dd2710610371c7
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
